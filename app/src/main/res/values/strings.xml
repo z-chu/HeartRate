@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">心率测试</string>
+    <string name="setting">设置</string>
+    <string name="permissions_allow">允许</string>
+    <string name="permissions_deny">拒绝</string>
+    <string name="permission_camera_dialog_title">开启摄影头</string>
+    <string name="permission_camera_dialog_msg_scanner">请允许我开启摄影头,使我能够扫描二维码.</string>
+    <string name="permission_camera_denied_msg">授权失败,摄像头无法打开</string>
+    <string name="permission_camera_never_ask_again">你已禁止获取摄像机权限,需要在设置中开启摄像机权限</string>
+
+</resources>
